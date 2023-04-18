@@ -72,6 +72,11 @@ ul {
     margin-bottom: 20px;
 }
 
+/*Triangolini*/
+.triangle {
+    font-size: small;
+}
+
 /*Croci*/
 .cross {
     color:red;
