@@ -3,6 +3,16 @@ h1 {
     display: inline;
 }
 
+/*Contenuto Principale*/
+.maincontainer {
+
+}
+
+/*Bottoni*/
+.buttons {
+
+}
+
 /*Lista*/
 ul {
     list-style-type: none
