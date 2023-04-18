@@ -60,6 +60,7 @@ ul {
     list-style-type: none;
 }
 
+/*Scritte normali della lista*/
 .contentlist {
     margin-top: 10px;
 }
@@ -70,13 +71,64 @@ ul {
     margin-top: 10px;
 }
 
-/*Scritte normali della lista*/
-.contentlist {
-
-}
-
-/*Pezzetti colorati nella lista*/
-.colorlist {
-    background-color: red;
+/*Colore 1*/
+.colorlist1 {
+    background-color: lightskyblue;
     border-radius: 30%;
+    font-size: small;
+    text-align: center;
+    margin-left: 10px;
+    color:white;
 }
+
+/*Colore 2*/
+.colorlist2 {
+    background-color: purple;
+    border-radius: 30%;
+    font-size: small;
+    text-align: center;
+    margin-left: 10px;
+    color:white;
+}
+
+/*Colore 3*/
+.colorlist3 {
+    background-color: lightseagreen;
+    border-radius: 30%;
+    font-size: small;
+    text-align: center;
+    margin-left: 10px;
+    color: white;
+}
+
+/*Colore 4*/
+.colorlist4 {
+    background-color: orange;
+    border-radius: 30%;
+    font-size: small;
+    text-align: center;
+    margin-left: 10px;
+    color: white;
+}
+
+/*Colore 5*/
+.colorlist4 {
+    background-color: pink;
+    border-radius: 30%;
+    font-size: small;
+    text-align: center;
+    margin-left: 10px;
+    color: white;
+}
+
+/*Colore 6*/
+.colorlist4 {
+    background-color: lightgreen;
+    border-radius: 30%;
+    font-size: small;
+    text-align: center;
+    margin-left: 10px;
+    color: white;
+}
+
+
