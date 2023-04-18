@@ -8,7 +8,7 @@
 
 /*Centrare Header*/
 .headercenter {
-    height: 100px;
+
 }
 
 /*ToBoolist*/
@@ -22,11 +22,17 @@ h1 {
 .maincontainer {
     margin: auto;
     width: 50%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
 }
 
 /*Bottoni*/
 .buttons {
-    border: 50px black;
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
+}
 }
 
 /*Bottone 1*/
